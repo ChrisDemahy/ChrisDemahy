@@ -4,7 +4,16 @@ Software engineer with experience building and supporting internal applications 
 
 ## What I've Worked On
 
-I've worked on internal software for supply chain, inventory, and operations teams across retail, manufacturing, and marketing environments. My experience includes building and supporting Java/Spring, Next.js, Angular, and C#/.NET applications; modernizing legacy systems; improving security and authentication; integrating vendor and ERP workflows; optimizing SQL and Oracle-backed systems; and enabling faster, more reliable releases through CI/CD, GitHub Actions, Jenkins, and Azure Kubernetes migrations.
+I've worked on internal software for supply chain, inventory, and operations teams across retail, manufacturing, and marketing environments.
+
+My experience includes:
+
+- Building and supporting Java/Spring, Next.js, Angular, and C#/.NET applications
+- Modernizing legacy systems and improving security/authentication
+- Integrating vendor platforms and ERP workflows
+- Optimizing SQL and Oracle-backed systems
+- Improving release reliability through CI/CD with GitHub Actions and Jenkins
+- Supporting cloud migrations to Azure Kubernetes
 
 ## Tech I Work With
 
